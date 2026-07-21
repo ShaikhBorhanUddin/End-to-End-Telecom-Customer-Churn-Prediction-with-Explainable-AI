@@ -1,2 +1,8 @@
 # End-to-End Telecom Customer Churn Prediction with Explainable AI
-![dashboard](assets/title.png)
+![dashboard](assets/title.png) 
+
+## Project Overview 
+
+## Dataset 
+
+
