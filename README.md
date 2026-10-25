@@ -8,3 +8,4 @@ Therefore, evaluating the quality and relevance of a dataset should be the first
 ## Dataset 
 
 [Dataset](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom/)
+[City Coordinates](https://simplemaps.com/data/us-cities) 
