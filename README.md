@@ -10,3 +10,30 @@ Therefore, evaluating the quality and relevance of a dataset should be the first
 [Dataset](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom/) 
 
 [City Coordinates](https://simplemaps.com/data/us-cities) 
+
+## Folder Structure 
+```bash
+cell2cell-churn-prediction/
+│
+├── notebooks/
+│   ├── 01_eda.ipynb
+│   ├── 02_preprocessing.ipynb
+│   └── 03_model_training.ipynb
+│
+├── src/
+│   ├── __init__.py
+│   ├── preprocessing.py
+│   ├── train.py
+│   └── inference.py
+│
+├── models/
+│   └── churn_pipeline.joblib
+│
+├── data/
+│   └── servicearea_lookup.json
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
