@@ -13,7 +13,9 @@ Therefore, evaluating the quality and relevance of a dataset should be the first
 
 ## Folder Structure 
 ```bash
-cell2cell-churn-prediction/
+telecom-churn-prediction/
+│
+├── assets/
 │
 ├── notebooks/
 │   ├── 01_eda.ipynb
@@ -27,7 +29,7 @@ cell2cell-churn-prediction/
 │   └── inference.py
 │
 ├── models/
-│   └── churn_pipeline.joblib
+│   └── rf_model.joblib
 │
 ├── data/
 │   └── servicearea_lookup.json
