@@ -11,6 +11,8 @@ Therefore, evaluating the quality and relevance of a dataset should be the first
 
 [City Coordinates](https://simplemaps.com/data/us-cities) 
 
+![dashboard](assets/simplemap_us_cities.png) 
+
 ## Folder Structure 
 ```bash
 telecom-churn-prediction/
